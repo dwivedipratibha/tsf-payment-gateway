@@ -1,0 +1,59 @@
+.img {
+    width: auto;
+    height: 568px;
+    background-image: url("images/slider2(1).jpg");
+    padding: auto;
+}
+
+.btn {
+    z-index: 1;
+    background-color: #f6ac7bbe;
+    color: black;
+    font-weight: bolder;
+}
+
+.navbar {
+    opacity: 0.9;
+    padding: 20px 100px;
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
+
+#vision {
+    background-color: beige;
+    padding: 30px 50px;
+    text-align: center;
+}
+
+.box {
+    border-radius: 100%;
+    font-size: medium;
+}
+
+.fas,
+.fab {
+    color: #F6AD7B;
+}
+
+.img-fluid {
+    padding-top: 10px;
+    width: 500px;
+    height: 300px;
+    object-fit: contain;
+}
+
+#about {
+    background-color: rgba(95, 48, 4, 0.301);
+    padding: 50px 30px;
+}
+
+#contact {
+    background-color: beige;
+    text-align: center;
+    padding: 80px 0px;
+    font-family: Titillium Web, sans-serif;
+}
+
+.icon {
+    padding-right: 80px;
+}
